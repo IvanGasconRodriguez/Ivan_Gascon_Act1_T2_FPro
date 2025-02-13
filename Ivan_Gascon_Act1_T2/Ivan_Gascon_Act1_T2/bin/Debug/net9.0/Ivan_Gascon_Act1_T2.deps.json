@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ivan_Gascon_Act1_T2/1.0.0": {
+        "runtime": {
+          "Ivan_Gascon_Act1_T2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ivan_Gascon_Act1_T2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

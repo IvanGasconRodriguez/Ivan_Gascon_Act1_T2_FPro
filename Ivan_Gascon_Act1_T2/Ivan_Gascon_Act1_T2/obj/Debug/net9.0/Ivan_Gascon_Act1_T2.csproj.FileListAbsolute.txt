@@ -1,0 +1,15 @@
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\bin\Debug\net9.0\Ivan_Gascon_Act1_T2.exe
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\bin\Debug\net9.0\Ivan_Gascon_Act1_T2.deps.json
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\bin\Debug\net9.0\Ivan_Gascon_Act1_T2.runtimeconfig.json
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\bin\Debug\net9.0\Ivan_Gascon_Act1_T2.dll
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\bin\Debug\net9.0\Ivan_Gascon_Act1_T2.pdb
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.AssemblyInfoInputs.cache
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.AssemblyInfo.cs
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.csproj.CoreCompileInputs.cache
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.sourcelink.json
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.dll
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\refint\Ivan_Gascon_Act1_T2.dll
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.pdb
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\Ivan_Gascon_Act1_T2.genruntimeconfig.cache
+C:\Users\ivang\Documents\GitHub\Ivan_Gascon_Act1_T2_FPro\Ivan_Gascon_Act1_T2\Ivan_Gascon_Act1_T2\obj\Debug\net9.0\ref\Ivan_Gascon_Act1_T2.dll

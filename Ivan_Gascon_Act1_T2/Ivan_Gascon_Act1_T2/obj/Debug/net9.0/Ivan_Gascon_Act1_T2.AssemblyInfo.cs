@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ivan_Gascon_Act1_T2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9972582373f911ddc73ae183d29c9c29ff2c8e97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ivan_Gascon_Act1_T2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ivan_Gascon_Act1_T2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
