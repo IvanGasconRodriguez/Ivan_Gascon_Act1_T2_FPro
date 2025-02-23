@@ -28,7 +28,7 @@
             Usuario user2 = new Usuario();
              System.Console.WriteLine("Introduzca mail");
             mail = Console.ReadLine();
-            //user2.BuscarUsuario(mail);
+            
             foreach (var item in Usuario.listaUsuarios)
             {
                 if(item.GetMail()==mail){
@@ -45,23 +45,23 @@
                     System.Console.WriteLine("3.Vaciar entrenamientos");
                     System.Console.WriteLine("4.Cerrar sesion");
                     opcion=int.Parse(Console.ReadLine());
-                    Entrenamiento entrenamiento = new Entrenamiento();
+                    Entrenamiento entrenamiento1 = new Entrenamiento();
                     switch(opcion){
                         case 1:
                         System.Console.WriteLine("Introduzca un nombre para su entrenamiento");
-                        nombre = Console.ReadLine();
+                        string? nombreEntrenamiento = Console.ReadLine();
                         System.Console.WriteLine("Distancia");
                         int distancia= int.Parse(Console.ReadLine());
                         System.Console.WriteLine("Tiempo");
                         int tiempo = int.Parse(Console.ReadLine());
-                        //Entrenamiento entrenamiento = new Entrenamiento(nombre,distancia,tiempo);
-                        entrenamiento.RegistrarEntrenamiento(entrenamiento,nombre,distancia,tiempo);
+                        Entrenamiento entrenamiento = new Entrenamiento(nombreEntrenamiento,distancia,tiempo);
+                        entrenamiento.RegistrarEntrenamiento(entrenamiento);
                         break;
                         case 2:
-                        entrenamiento.ListarEntrenamientos();
+                        Entrenamiento.ListarEntrenamientos();
                         break;
                         case 3:
-                        entrenamiento.VaciarEntrenamientos();
+                        entrenamiento1.VaciarEntrenamientos();
                         break;
                         case 4:
                         System.Console.WriteLine("Cerrando Sesion");
